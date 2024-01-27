@@ -57,17 +57,16 @@ const HomePage = () => {
         <div className="w-[80%] mx-auto lg:grid grid-cols-3 gap-5 mt-7">
           <div className="border border-slate-400 p-3 rounded-lg hover:scale-105 my-5 lg:my-0">
             <img
-              src="img/programmer.png"
-              alt=""
+              src="img/undangan-online.jpg"
+              alt="undangan online"
               className="h-52 w-full"
             />
             <div className="mt-3 bg-slate-200 rounded-lg p-3">
               <h3 className="font-semibold text-secondary mb-3">
-                Kartu Undangan Online
+                Undangan Online
               </h3>
               <p className="text-sm">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Laudantium ipsa.
+                Kami mampu membantu anda dengan membuatkan kartu undangan online yang murah, fleksibel dan tentunya murah.
               </p>
               <button className="bg-for px-4 py-2 rounded-lg text-sm font-semibold hover:bg-[#0A2B64] hover:scale-105 text-tree mt-4">
                 Lihat Sempel
@@ -76,17 +75,16 @@ const HomePage = () => {
           </div>
           <div className="border border-slate-400 p-3 rounded-lg hover:scale-105 my-5 lg:my-0">
             <img
-              src="img/programmer.png"
-              alt=""
+              src="img/kelas-pemrogramman.png"
+              alt="kelas pemrogramman"
               className="h-52 w-full"
             />
             <div className="mt-3 bg-slate-200 rounded-lg p-3">
               <h3 className="font-semibold text-secondary mb-3">
-                Kartu Undangan Online
+                Kelas Pemrogramman
               </h3>
               <p className="text-sm">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Laudantium ipsa.
+                Kami juga menyediakan kelas pemrogramman untuk pemula yang ingin berkarir di bidang IT.
               </p>
               <button className="bg-for px-4 py-2 rounded-lg text-sm font-semibold hover:bg-[#0A2B64] hover:scale-105 text-tree mt-4">
                 Lihat Sempel
@@ -95,17 +93,16 @@ const HomePage = () => {
           </div>
           <div className="border border-slate-400 p-3 rounded-lg hover:scale-105 my-5 lg:my-0">
             <img
-              src="img/programmer.png"
-              alt=""
+              src="img/web-umkm.jpg"
+              alt="web umkm"
               className="h-52 w-full"
             />
             <div className="mt-3 bg-slate-200 rounded-lg p-3">
               <h3 className="font-semibold text-secondary mb-3">
-                Kartu Undangan Online
+                Website UMKM
               </h3>
               <p className="text-sm">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Laudantium ipsa.
+                Kami menyediakan layanan pembuatan website untuk usaha anda dengan berbagai fitur sesuai keinginan anda.
               </p>
               <button className="bg-for px-4 py-2 rounded-lg text-sm font-semibold hover:bg-[#0A2B64] hover:scale-105 text-tree mt-4">
                 Lihat Sempel
@@ -126,77 +123,73 @@ const HomePage = () => {
         <div className="w-[80vw] mx-auto mt-7 lg:grid grid-cols-4 gap-3">
           <div className="bg-tree p-3 rounded-lg hover:scale-105 my-5 lg:my-0">
             <img
-              src="img/programmer.png"
-              alt=""
+              src="img/pngwing.com (1).png"
+              alt="javascript"
               className="h-52 w-full"
             />
             <div className="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 className="font-semibold text-secondary mb-3">
-                Kartu Undangan Online
+                Dasar Javascript
               </h3>
               <p className="text-sm">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Laudantium ipsa.
+                Belajar mulai dari 0 dengan bahasa pemrogramman Javascript.
               </p>
               <button className="bg-for px-4 py-2 rounded-lg text-xs font-semibold hover:bg-[#0A2B64] hover:scale-105 text-tree mt-4">
-                Lihat Sempel
+                Learn now !
               </button>
             </div>
           </div>
           <div className="bg-tree p-3 rounded-lg hover:scale-105 my-5 lg:my-0">
             <img
-              src="img/programmer.png"
+              src="img/pngwing.com (2).png"
               alt=""
               className="h-52 w-full"
             />
             <div className="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 className="font-semibold text-secondary mb-3">
-                Kartu Undangan Online
+                CSS Dasar
               </h3>
               <p className="text-sm">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Laudantium ipsa.
+                Belajar dasar styleing menggunakan css.
               </p>
               <button className="bg-for px-4 py-2 rounded-lg text-xs font-semibold hover:bg-[#0A2B64] hover:scale-105 text-tree mt-4">
-                Lihat Sempel
+                Learn now !
               </button>
             </div>
           </div>
           <div className="bg-tree p-3 rounded-lg hover:scale-105 my-5 lg:my-0">
             <img
-              src="img/programmer.png"
+              src="img/pngwing.com (4).png"
               alt=""
               className="h-52 w-full"
             />
             <div className="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 className="font-semibold text-secondary mb-3">
-                Kartu Undangan Online
+                Bootstrap 5
               </h3>
               <p className="text-sm">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Laudantium ipsa.
+                Belajar framework css dengan bootstrap versi 5.
               </p>
               <button className="bg-for px-4 py-2 rounded-lg text-xs font-semibold hover:bg-[#0A2B64] hover:scale-105 text-tree mt-4">
-                Lihat Sempel
+                Learn now !
               </button>
             </div>
           </div>
           <div className="bg-tree p-3 rounded-lg hover:scale-105 my-5 lg:my-0">
             <img
-              src="img/programmer.png"
+              src="img/pngwing.com (5).png"
               alt=""
               className="h-52 w-full"
             />
             <div className="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 className="font-semibold text-secondary mb-3">
-                Kartu Undangan Online
+                Next js
               </h3>
               <p className="text-sm">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Laudantium ipsa.
+                Belajar framework react menggunakan next js.
               </p>
               <button className="bg-for px-4 py-2 rounded-lg text-xs font-semibold hover:bg-[#0A2B64] hover:scale-105 text-tree mt-4">
-                Lihat Sempel
+                Learn now !
               </button>
             </div>
           </div>

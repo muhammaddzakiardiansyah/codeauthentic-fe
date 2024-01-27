@@ -1,4 +1,5 @@
 import { Route, Routes } from "react-router-dom"
+import Swal from "sweetalert2"
 import HomePage from "./pages/HomePage"
 import Product from "./pages/ProductPage"
 import LearnPage from "./pages/LearnPage"

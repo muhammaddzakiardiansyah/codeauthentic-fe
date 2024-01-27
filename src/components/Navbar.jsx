@@ -1,5 +1,27 @@
 import { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
+import Swal from "sweetalert2";
+
+const Alert = (props) => {
+  const { title = "Hii this alert!" } = props;
+  return Swal.fire({
+    title: title,
+    showClass: {
+      popup: `
+          animate__animated
+          animate__fadeInUp
+          animate__faster
+        `,
+    },
+    hideClass: {
+      popup: `
+          animate__animated
+          animate__fadeOutDown
+          animate__faster
+        `,
+    },
+  });
+};
 
 const Navbar = () => {
   const [icon, setIcon] = useState(false);
@@ -21,9 +43,12 @@ const Navbar = () => {
   return (
     <nav className="lg:flex justify-between items-center px-[6%] py-5 lg:py-0 bg-white z-10">
       <div className="flex justify-between items-center">
-        <h1 className="text-xl md:text-2xl lg:text-3xl font-bold text-secondary cursor-pointer">
-          Code<span className="text-primary">authentic</span>
-        </h1>
+        <div className="flex items-center ">
+          <img src="img/cda.png" alt="cda" className="h-10 mb-2 lg:h-14 lg:mb-4" />
+          <h1 className="text-xl md:text-2xl pl-3 lg:text-3xl font-bold border-l-2 border-black text-secondary cursor-pointer">
+            Code<span className="text-primary">authentic</span>
+          </h1>
+        </div>
         <span className="lg:hidden text-2xl mt-3 cursor-pointer">
           <ion-icon
             name={icon == true ? "close-outline" : "menu"}
@@ -60,7 +85,7 @@ const Navbar = () => {
           </li>
         </Link>
         <li
-          onClick={() => alert('Maaf untuk fitur ini belum tersedia:(')}
+          onClick={() => Alert({ title: "Maaf fitur ini belum tersedia :(" })}
           className={`${
             location.pathname === "/contact" ? "text-primary" : " "
           } font-semibold hover:text-primary cursor-pointer mb-2 lg:mb-0 lg:px-4`}
@@ -68,7 +93,7 @@ const Navbar = () => {
           Contact
         </li>
         <li
-          onClick={() => alert('Maaf untuk fitur ini belum tersedia:(')}
+          onClick={() => Alert({ title: "Maaf fitur ini belum tersedia :(" })}
           className={`${
             location.pathname === "/blogs" ? "text-primary" : " "
           } font-semibold hover:text-primary cursor-pointer mb-2 lg:mb-0 lg:px-4`}
