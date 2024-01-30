@@ -34,7 +34,7 @@ const Product = () => {
         </h2>
         <div class="w-[80vw] mx-auto mt-10 lg:grid grid-cols-4 gap-3">
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -49,7 +49,7 @@ const Product = () => {
             </div>
           </div>
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -64,7 +64,7 @@ const Product = () => {
             </div>
           </div>
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -79,7 +79,7 @@ const Product = () => {
             </div>
           </div>
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -94,7 +94,7 @@ const Product = () => {
             </div>
           </div>
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -114,7 +114,7 @@ const Product = () => {
         </h2>
         <div class="w-[80vw] mx-auto mt-10 lg:grid grid-cols-4 gap-3">
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -129,7 +129,7 @@ const Product = () => {
             </div>
           </div>
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -144,7 +144,7 @@ const Product = () => {
             </div>
           </div>
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -159,7 +159,7 @@ const Product = () => {
             </div>
           </div>
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -179,7 +179,7 @@ const Product = () => {
         </h2>
         <div class="w-[80vw] mx-auto mt-10 lg:grid grid-cols-4 gap-3">
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -194,7 +194,7 @@ const Product = () => {
             </div>
           </div>
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -209,7 +209,7 @@ const Product = () => {
             </div>
           </div>
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online
@@ -224,7 +224,7 @@ const Product = () => {
             </div>
           </div>
           <div class="bg-tree p-3 rounded-lg hover:scale-105 border border-slate-600 my-5 lg:my-0">
-            <img src="public/img/programmer.png" alt="" class="h-52 w-full" />
+            <img src="img/programmer.png" alt="" class="h-52 w-full" />
             <div class="mt-3 bg-slate-200 p-3 rounded-lg">
               <h3 class="font-semibold text-secondary mb-3">
                 Kartu Undangan Online

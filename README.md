@@ -1,6 +1,22 @@
-# React + Vite
+# Codeauthentic for Frontend V1.0.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This frontend for website codeauthentic.
+
+# Start the project
+
+```bash
+#npm
+npm install
+npm run dev
+#yarn
+yarn add
+yarn dev
+#bun
+bun add
+bun dev
+```
+# Author
+M Dzaki ardiansyah
 
 Currently, two official plugins are available:
 
